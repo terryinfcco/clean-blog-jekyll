@@ -2,8 +2,8 @@ title:              Terryinfcco Blog
 email:              terryinclmich@hotmail.com
 description:        My Personal Blog of Technology Findings. For my own personal use, but if someone else finds it useful all the better.
 author:             Terryinfcco
-baseurl:            "clean-blog-jekyll"
-url:                "https://terryinfcco.github.io"
+baseurl:            "/clean-blog-jekyll"
+url:                "https://github.com/terryinfcco.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
